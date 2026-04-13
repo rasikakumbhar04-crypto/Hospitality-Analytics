@@ -22,9 +22,7 @@ It is designed as an industry-ready BI project showcasing strong skills in data 
 ✓ Data Preparation & Cleaning
 
       - Imported raw CSV files directly into Excel and Tableau
-    
       - Loaded datasets into SQL using the MySQL Import Wizard
-    
       - Cleaned nulls, standardized dates, formats, and categories
     
     Ensured consistent schemas across SQL, Excel, Power BI, and Tableau
@@ -34,13 +32,9 @@ It is designed as an industry-ready BI project showcasing strong skills in data 
       - Built relationships between:
     
         - dim_date
-    
         - dim_hotels
-    
         - dim_rooms
-    
         - fact_bookings
-    
         - fact_aggregated_bookings
     
     Ensured integrity for joins, filters, and dashboard performance
@@ -48,25 +42,18 @@ It is designed as an industry-ready BI project showcasing strong skills in data 
 ✓ Writing SQL Queries for Analysis
 
       - Created analytical queries for:
-    
       - Revenue KPIs
-    
       - Occupancy calculations
-    
       - Booking trends
-    
       - Customer loyalty metrics
-    
       - Cancellation & no‑show patterns
     
     Built aggregated metrics for BI dashboards
 
 ✓ Dashboard Development
 
-      - Excel: Imported CSV → Pivot charts → Slicers → KPI cards
-        
-      - Tableau: Imported CSV → Visual storytelling dashboards
-        
+      - Excel: Imported CSV → Pivot charts → Slicers → KPI cards 
+      - Tableau: Imported CSV → Visual storytelling dashboards 
       - Power BI: Direct SQL connection → Drill‑through → Measures → DAX
     
     All dashboards include filters for Property, City, Date, Channel, Room Category.
@@ -74,11 +61,8 @@ It is designed as an industry-ready BI project showcasing strong skills in data 
 ✓ Generating Business Insights
 
       - Identified key revenue drivers
-        
       - Analyzed booking channel performance
-        
       - Explored guest ratings
-        
       - Highlighted high/low occupancy patterns
     
     Delivered actionable improvements for revenue & operations
@@ -195,13 +179,10 @@ Fact Tables
     
 🔄 Data Integration Workflow (Actual Process Used)
 
-      CSV Files → Excel (Dashboard)
-      
-      CSV Files → Tableau (Dashboard)
-      
-      CSV Files → MySQL (Import Wizard)
-      
-      SQL Database → Power BI (Live Connection)
+      - CSV Files → Excel (Dashboard)
+      - CSV Files → Tableau (Dashboard)
+      - CSV Files → MySQL (Import Wizard)
+      - SQL Database → Power BI (Live Connection)
 
 ✅ Accurate to your real workflow
 ✅ No unnecessary ETL complexity
