@@ -1,4 +1,4 @@
-# 🏨 Hospitality Analytics - Group 1 Project (P1194)
+# 🏨 Hospitality Analytics - Project (P1194)
 
 ## Project Overview
 
@@ -15,14 +15,14 @@ This project provides **comprehensive analytics and insights** into hospitality 
 
 ## Project Contents
 
-### 1. **Hospitality Analytics - SQL - Group 1.sql**
+### 1. **Hospitality Analytics - SQL.sql**
    SQL queries and schema definitions for the hospitality database. Includes:
    - Database and table creation
    - Dimension tables (dates, hotels, rooms)
    - Fact tables (aggregated bookings, detailed bookings)
    - Pre-built analysis queries
 
-### 2. **Hospitality Analysis - Tableau - Group 1.twbx**
+### 2. **Hospitality Analysis - Tableau.twbx**
    Tableau workbook containing interactive dashboards and visualizations for hospitality metrics
 
 ## Database Architecture
@@ -194,7 +194,7 @@ Average: ████████░░ 75%
 #### Step 1️⃣: Database Setup
 ```sql
 -- Create and initialize database
--- Run the complete Hospitality Analytics - SQL - Group 1.sql file
+-- Run the complete Hospitality Analytics - SQL .sql file
 ```
 
 #### Step 2️⃣: Data Loading
@@ -219,7 +219,7 @@ SELECT COUNT(*) FROM fact_aggregated_bookings;
 #### Step 4️⃣: Open Tableau Dashboard
 ```
 1. Open Tableau Desktop or Tableau Server
-2. Load "Hospitality Analysis - Tableau - Group 1.twbx"
+2. Load "Hospitality Analysis - Tableau .twbx"
 3. Refresh data connections
 4. Explore pre-built dashboards
 ```
@@ -422,8 +422,8 @@ Recommended Schedule:
 ```
 Project Directory/
 ├── README.md (this file)
-├── Hospitality Analytics - SQL - Group 1.sql
-├── Hospitality Analysis - Tableau - Group 1.twbx
+├── Hospitality Analytics - SQL .sql
+├── Hospitality Analysis - Tableau.twbx
 ├── images/
 │   ├── banner.png
 │   ├── revenue-dashboard.png
@@ -442,7 +442,7 @@ Project Directory/
 ---
 
 ## 👥 Project Team
-**Group 1** | P1194 Hospitality Analytics Project
+**** | P1194 Hospitality Analytics Project
 
 ### Team Members:
 - Data Analysis & SQL Development
