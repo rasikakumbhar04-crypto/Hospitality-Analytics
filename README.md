@@ -205,9 +205,8 @@ Interactive pivot-based dashboard for fast KPI analysis.
     Booking channel distribution
     Property-wise comparison
 
-📁 Hospitality Analytics - Excel Dashboard.xlsx
-📸 Screenshot placeholder:
-./images/excel_dashboard.png
+📁 https://drive.google.com/file/d/1Sw2JRU57IS5q2XjwUKiUnsYIJVEpHQP4/view?usp=drive_link
+📸 Screenshot: https://drive.google.com/file/d/12qSPE6LaIEQMCZN_nQWh0iafnsyudKWU/view?usp=drive_link
 
 ✅ 2. Power BI Dashboard
 Connected directly to the SQL database for live-refresh analytics.
@@ -220,9 +219,8 @@ Connected directly to the SQL database for live-refresh analytics.
     No‑show & cancellation patterns
     Drill-through pages
 
-📁 Hospitality Analytics - Power BI Dashboard.pbix
-📸 Screenshot placeholder:
-./images/powerbi_dashboard.png
+📁 https://drive.google.com/file/d/1l2NbdRRTLVBoMEDzBihJaxyplyzTo5Xy/view?usp=drive_link
+📸 Screenshot: https://drive.google.com/file/d/1_NhXmSf2tUuh72DVzYVIvCAsd_1Cw0sr/view?usp=drive_link
 
 ✅ 3. Tableau Dashboard
 Beautiful storytelling dashboards for executives.
@@ -234,9 +232,8 @@ Beautiful storytelling dashboards for executives.
     Customer satisfaction trends
     Booking patterns
 
-📁 Hospitality Analysis - Tableau.twbx
-📸 Screenshot placeholder:
-./images/tableau_dashboard.png
+📁 https://drive.google.com/file/d/1GHtIQEqWl7acfbeyhP2swBqB1ghPgiDw/view?usp=drive_link
+📸 Screenshot: https://drive.google.com/file/d/1Q-u-kkbKv_O5yl1QW0Ns8RBshbeh5SVd/view?usp=drive_link
 
 ------------------------------------------------------------------------------------------------------------------
 
