@@ -22,9 +22,7 @@ Cleaned nulls, standardized dates, formats, and categories
 Ensured consistent schemas across SQL, Excel, Power BI, and Tableau
 
 ✓ Creating Data Relationships
-
 Built relationships between:
-
 dim_date
 dim_hotels
 dim_rooms
@@ -115,9 +113,8 @@ https://img.shields.io/badge/Data%20Cleaning-CSV%20Files-red
              dim_rooms                                  dim_rooms
 
      ---------------------------------------------------------------------------------------------------
-┌──────────────────────────────┐
-│      DIMENSION TABLES        │
-└──────────────────────────────┘
+
+Dimension Tables
 
  DIM_DATE 
   - date_id    
@@ -136,9 +133,7 @@ https://img.shields.io/badge/Data%20Cleaning-CSV%20Files-red
   - capacity
 
 
-┌──────────────────────────────┐
-│         FACT TABLES          │
-└──────────────────────────────┘
+Fact Tables
 
  FACT_BOOKINGS
   - booking_id
